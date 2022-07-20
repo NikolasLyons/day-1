@@ -1,0 +1,15 @@
+/Users/nikolaslyons/source/CodeWorks/day-1/bin/Debug/net6.0/day-1
+/Users/nikolaslyons/source/CodeWorks/day-1/bin/Debug/net6.0/day-1.deps.json
+/Users/nikolaslyons/source/CodeWorks/day-1/bin/Debug/net6.0/day-1.runtimeconfig.json
+/Users/nikolaslyons/source/CodeWorks/day-1/bin/Debug/net6.0/day-1.dll
+/Users/nikolaslyons/source/CodeWorks/day-1/bin/Debug/net6.0/day-1.pdb
+/Users/nikolaslyons/source/CodeWorks/day-1/obj/Debug/net6.0/day-1.csproj.AssemblyReference.cache
+/Users/nikolaslyons/source/CodeWorks/day-1/obj/Debug/net6.0/day-1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/nikolaslyons/source/CodeWorks/day-1/obj/Debug/net6.0/day-1.AssemblyInfoInputs.cache
+/Users/nikolaslyons/source/CodeWorks/day-1/obj/Debug/net6.0/day-1.AssemblyInfo.cs
+/Users/nikolaslyons/source/CodeWorks/day-1/obj/Debug/net6.0/day-1.csproj.CoreCompileInputs.cache
+/Users/nikolaslyons/source/CodeWorks/day-1/obj/Debug/net6.0/day-1.dll
+/Users/nikolaslyons/source/CodeWorks/day-1/obj/Debug/net6.0/refint/day-1.dll
+/Users/nikolaslyons/source/CodeWorks/day-1/obj/Debug/net6.0/day-1.pdb
+/Users/nikolaslyons/source/CodeWorks/day-1/obj/Debug/net6.0/day-1.genruntimeconfig.cache
+/Users/nikolaslyons/source/CodeWorks/day-1/obj/Debug/net6.0/ref/day-1.dll
